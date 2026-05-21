@@ -6,22 +6,15 @@
 
 SARES meets every Monday at 19:30 (Sunnyvale, CA, USA). Guests and prospective menbers are welcome.
 
-We usually meet on the primary K6SNY repeater:
+During <span id="this_month"></span>, we will meet on one of these frequencies:
 
-SARES channel 1  
-145.170 MHz  
-Negative offset  
-PL 94.8 Hz
+| Frequency                        | Offset   | CTCSS   |                            SARES Channel                            |
+| -------------------------------- | -------- | ------- | :-----------------------------------------------------------------: |
+| 145.170 MHz                      | Negative | 94.8 Hz |                                  1                                  |
+| 444.525 MHz                      | Positive | 94.8 Hz |                                 12                                  |
+| <span id="frequency"></span> MHz | Simplex  |         | <span id="channel_number"></span> (<span id="channel_name"></span>) |
 
-On some Mondays, we meet on an alternate repeater or simplex frequency.
-
-SARES channel 12  
-444.525 MHz  
-Positive offset  
-PL 94.8 Hz
-
-The simplex frequency for <span id="this_month"></span> is <span id="frequency"></span> MHz (SARES channel
-<span id="channel_number"></span>, <span id="channel_name"></span>).
+Please see the [SARES Frequency List](https://github.com/saresrg/Go-Kit-Forms/releases/latest) for full details.
 
 ### SPECS Net
 
@@ -39,10 +32,10 @@ The SARES weekly check-in count from the preceding Monday night will be carried 
 
 ## More Information
 
--   SARES Frequency List ([GitHub](https://github.com/saresrg/Go-Kit-Forms/releases/latest))
--   Simplex Rotation Calendar
-    ([Google Sheets](https://docs.google.com/spreadsheets/d/1CkQEnq1w-r1LN8F204JM4XkJoE7ffjHwhE4THyW0qew/edit?usp=sharing)).
--   [Information](resources/net-control.md) for SARES Net Control Operators
+- SARES Frequency List ([GitHub](https://github.com/saresrg/Go-Kit-Forms/releases/latest))
+- Simplex Rotation Calendar
+  ([Google Sheets](https://docs.google.com/spreadsheets/d/1CkQEnq1w-r1LN8F204JM4XkJoE7ffjHwhE4THyW0qew/edit?usp=sharing)).
+- [Information](resources/net-control.md) for SARES Net Control Operators
 
 <script src="/js/simplex.js"></script>
 <script>
